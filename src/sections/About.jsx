@@ -41,7 +41,6 @@ const About = () => {
   return (
     <section id="about" className="min-h-screen bg-black rounded-b-4xl">
       <AnimatedHeaderSection
-        subTitle={"Cod with purpose, Built to scale"}
         title={"About"}
         text={text}
         textColor={"text-[#C6A265]"}
@@ -52,7 +51,7 @@ const About = () => {
           ref={imgRef}
           src="images/man.jpg"
           alt="man"
-          className="w-md rounded-3xl border-4 border-[#C6A265]"
+          className="w-md rounded-3xl border-4 border-[#C6A265] -mt-8"
         />
         <AnimatedTextLines text={aboutText} className={"w-full"} />
       </div>

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌐 3D Awwwards-Level Developer Portfolio
 
 ### Built with React, GSAP, Three.js, TailwindCSS
@@ -94,3 +95,6 @@ If this helped you build or inspire your own site:
 Drop a comment on the video or open an issue with your idea!
 
 > 📩 Like, subscribe, and let me know what kind of project you want to build together!
+=======
+# Portfolio
+>>>>>>> 76bd4abe39ea9a1f0c2acb7cdaa97594e7d4a736
